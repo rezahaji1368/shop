@@ -1,0 +1,19 @@
+.loginForm{
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+    flex-direction: column;
+    margin-left: 40%;
+    margin-top: 4rem;
+    width: 20%;
+    padding: 2rem;
+    border: 1px solid #ccc;
+}
+.loginForm input[type="email"],.loginForm 
+input[type="password"]{
+    margin-bottom: 5px;
+    width: 100%;
+}
+.loginForm a p{
+    margin-top: .5rem;
+}

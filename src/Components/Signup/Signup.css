@@ -1,0 +1,14 @@
+.formContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 20px;
+}
+.formContainer h1{
+    margin-bottom: 2rem;
+}
+.formContainer a p{
+    margin-top: 1rem;
+}
+
